@@ -1,1 +1,1 @@
-Igor
+alert("Hello world")
